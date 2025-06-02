@@ -5,21 +5,15 @@
 To explore the fundamentals of UI (User Interface) and UX (User Experience) design, differentiate between UI and UX using real-world case studies, illustrate the relationship between UI and UX in modern digital product design, and demonstrate the practical use of various UI/UX design tools through hands-on application.
 
 # Output:
-![WhatsApp Image 2025-05-30 at 19 49 07_0d75f7b1](https://github.com/user-attachments/assets/1424bf50-06bd-41c9-befb-db857a48a3ed)
-
-![WhatsApp Image 2025-05-30 at 19 49 07_47cc9355](https://github.com/user-attachments/assets/51c66418-56f3-40f4-a7ff-3a0b137e4184)
-
-![WhatsApp Image 2025-05-30 at 19 49 08_ce40e603](https://github.com/user-attachments/assets/708bd8d6-c071-4ed6-8e05-6dd48662f166)
-
-![WhatsApp Image 2025-05-30 at 19 49 08_90d76a36](https://github.com/user-attachments/assets/c0867cc6-9a02-4a4a-8350-e8f2d3b64977)
-
-![WhatsApp Image 2025-05-30 at 19 49 08_f22a1992](https://github.com/user-attachments/assets/258792c9-c66c-4032-bb5d-8082d1081b66)
-
-![WhatsApp Image 2025-05-30 at 19 49 08_5a02e2c7](https://github.com/user-attachments/assets/087ce623-7f00-4a59-8be4-654f70738ad5)
-
-![WhatsApp Image 2025-05-30 at 19 49 09_56e6985a](https://github.com/user-attachments/assets/b48cf69c-793e-4c8e-8a37-5676b4b5aa71)
-
-![WhatsApp Image 2025-05-30 at 19 49 09_e1f77a98](https://github.com/user-attachments/assets/4f0c26e4-f327-4a8a-be8b-a41c4ab2eaa5)
+![Lab 1_page-0001](https://github.com/user-attachments/assets/d571a4d9-37df-41f6-a5a7-59899c850f81)
+![Lab 1_page-0002](https://github.com/user-attachments/assets/976b3176-e4fd-4c39-9311-d25188075d03)
+![Lab 1_page-0003](https://github.com/user-attachments/assets/dc7f1703-2edb-4c69-a4f7-4e4f92d393ad)
+![Lab 1_page-0004](https://github.com/user-attachments/assets/156c815e-91be-4937-9c2f-554401ab9d28)
+![Lab 1_page-0005](https://github.com/user-attachments/assets/0922e811-4a7b-4fd5-b112-509b6ab0f4f9)
+![Lab 1_page-0006](https://github.com/user-attachments/assets/b155d62c-9532-4bbe-8357-a387c5c3418e)
+![Lab 1_page-0007](https://github.com/user-attachments/assets/d95c2437-fd6b-4e44-ba7c-0a891e55e285)
+![Lab 1_page-0008](https://github.com/user-attachments/assets/c8e4ef67-b24d-4dcd-8658-dcbfdd8c5bed)
+![Lab 1_page-0009](https://github.com/user-attachments/assets/8d5ab299-fdd3-48d7-9ed4-858f2dbcd64c)
 
 
 # Result:
